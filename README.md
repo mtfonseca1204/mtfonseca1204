@@ -1,9 +1,3 @@
-Opa Seja Muito Bem Vindo!!
-
--⚡ Trabalhando com Analista de TI
-
--🌱 Estudando Html, CSS e Java Scr
-
 <div align="center">
   <a href="https://github.com/mtfonseca1204">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtfonseca1204&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
