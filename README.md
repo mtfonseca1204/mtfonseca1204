@@ -1,8 +1,3 @@
-<!-- Minimal GitHub Profile — Tokyo Night -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
 
 # Fonseca 👋  
 **Product Designer (UX/UI) • Web3 • Fintech**
@@ -40,7 +35,4 @@ If you’re working on **Web3, fintech, or complex products** and care about **g
 ## Let’s connect
 - 💼 LinkedIn: https://www.linkedin.com/in/maths-fonseca/
 - 🎨 Portfolio / Behance: https://fonseca.studio/
-
-
-<sub>Tokyo Night • Built for builders</sub>
 
