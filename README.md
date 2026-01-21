@@ -1,76 +1,46 @@
-<!--
-README.md — GitHub Profile
-Theme: Tokyo Night
--->
+<!-- Minimal GitHub Profile — Tokyo Night -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1" />
-</p>
+# Fonseca 👋  
+**Product Designer (UX/UI) • Web3 • Fintech**
+
+I design **end-to-end digital products** for complex systems — turning crypto, finance, and data-heavy flows into **clear, shippable experiences**.
+
+I work very close to engineers, caring about **feasibility, handoff, edge cases, and velocity**, not just visuals.
 
 ---
 
-# Hey, I'm Fonseca 👋  
-**Product Designer (UX/UI) & Brand Builder** focused on **Web3, fintech, and complex systems**.
-
-I design **end-to-end digital products**, from discovery and UX strategy to high-fidelity UI, design systems, and launch-ready assets.  
-My work blends **systems thinking**, **interaction craft**, and **brand consistency** — especially in Web3-native environments.
-
----
-
-## What I do
-- 🧠 **Product & UX Design** — journeys, IA, wireframes, prototyping, usability
-- ✨ **Interaction & UI Craft** — flows, micro-interactions, edge cases
-- 🧩 **Design Systems** — scalable components, tokens, documentation
-- 🎨 **Brand & Visual Design** — identity, key visuals, launch assets
-- 🔗 **Web3 / DeFi Products** — on-chain apps, dashboards, token flows
+### What I bring to the table
+- 🧠 Product thinking + strong UX fundamentals  
+- ✨ Clean UI & interaction craft  
+- 🧩 Design systems that scale with code  
+- 🔗 Real experience with **Web3 / DeFi products**
+- 🚀 Fast shipping with feedback loops (hackathons & startups)
 
 ---
 
-## Current focus
-- Designing **Web3 experiences that feel simple to non-crypto users**
-- Building **high-trust UI** for finance-like products (payments, stablecoins, compliance-aware UX)
-- Shipping faster with **strong systems and clean handoff**
-
----
-
-## Highlights
-- 🏆 **Hackathon winner (ETHSamba)** & **BlockchainRio Champion**
-- 🌍 International experience (Portugal & Argentina)
+### Highlights
+- 🏆 ETHSamba Hackathon Winner** & **BlockchainRio Champion
+- 🌍 International experience (EU + LATAM)  
 - 🚀 Strong at balancing **quality vs time-to-market**
 - 🤝 Close collaboration with product & engineering teams
 
 ---
 
-## Selected work
-- **Hedgehog Protocol** — On-chain prediction market (UX + branding + launch)
-- **Picnic** — Company Key Visual (branding, grid, color system)
-- **Petrobras Saúde / Seguros Unimed** — Platform redesigns focused on clarity
+### Want to build something together?
+If you’re working on **Web3, fintech, or complex products** and care about **good UX + real users**, let’s talk.
 
-> Want the full portfolio? Reach out and I’ll share the latest version.
-
----
-
-## Toolbelt
-<p>
-  <img src="https://img.shields.io/badge/Figma-UX%2FUI-7AA2F7?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Systems-Scalable-9ECE6A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web3-DeFi-B4F9F8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Branding-Visual%20Identity-F7768E?style=flat-square" />
-</p>
-
----
-
-## GitHub activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+📩 DM me on LinkedIn or drop me an email.
 
 ---
 
 ## Let’s connect
 - 💼 LinkedIn: https://www.linkedin.com/in/maths-fonseca/
 - 🎨 Portfolio / Behance: https://fonseca.studio/
+
+
+<sub>Tokyo Night • Built for builders</sub>
+
