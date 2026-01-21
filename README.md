@@ -1,3 +1,8 @@
+<!--
+README.md — GitHub Profile
+Theme: Tokyo Night
+-->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -6,66 +11,66 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1" />
 </p>
 
-# Hey, I'm Fonseca 👋
-**Product Designer (UX/UI) & Brand Builder** focused on **Web3, fintech, and complex systems** — turning messy flows into clear, shippable products.
+---
 
-I work end-to-end: **discovery → UX strategy → interaction/UI → design systems → handoff → launch**.  
-On the side, I build **visual identities, key visuals, and marketing assets** that help products feel consistent and premium.
+# Hey, I'm Fonseca 👋  
+**Product Designer (UX/UI) & Brand Builder** focused on **Web3, fintech, and complex systems**.
+
+I design **end-to-end digital products**, from discovery and UX strategy to high-fidelity UI, design systems, and launch-ready assets.  
+My work blends **systems thinking**, **interaction craft**, and **brand consistency** — especially in Web3-native environments.
 
 ---
 
 ## What I do
-- **Product Design:** journeys, IA, wireframes, prototypes, usability, UX writing
-- **Interaction Craft:** flows, micro-interactions, empty states, edge cases
-- **Design Systems:** components, tokens, guidelines, scalability
-- **Brand & Visual:** identity, key visuals, social assets, narrative & positioning
-- **Web3 / DeFi:** on-chain apps, prediction markets, wallets, dashboards, token flows
+- 🧠 **Product & UX Design** — journeys, IA, wireframes, prototyping, usability
+- ✨ **Interaction & UI Craft** — flows, micro-interactions, edge cases
+- 🧩 **Design Systems** — scalable components, tokens, documentation
+- 🎨 **Brand & Visual Design** — identity, key visuals, launch assets
+- 🔗 **Web3 / DeFi Products** — on-chain apps, dashboards, token flows
 
 ---
 
 ## Current focus
-- Designing **Web3-native experiences** that feel simple to people who don’t speak crypto
-- Building **high-trust UI** for finance-like products (stablecoins, payments, compliance-aware UX)
-- Improving **shipping velocity** with better systems, documentation, and tighter handoff
+- Designing **Web3 experiences that feel simple to non-crypto users**
+- Building **high-trust UI** for finance-like products (payments, stablecoins, compliance-aware UX)
+- Shipping faster with **strong systems and clean handoff**
 
 ---
 
 ## Highlights
-- 🏆 Hackathon winner (ETHSamba) + champion at BlockchainRio  
-- 🌍 International experience (Portugal + Argentina)  
-- 🧩 Worked across products and brands — from **health/insurance platforms** to **Web3 launches**  
-- 🚀 Strong at balancing **quality vs. time-to-market** (launching with feedback loops)
+- 🏆 **Hackathon winner (ETHSamba)** & **BlockchainRio Champion**
+- 🌍 International experience (Portugal & Argentina)
+- 🚀 Strong at balancing **quality vs time-to-market**
+- 🤝 Close collaboration with product & engineering teams
 
 ---
 
-## Selected work (case studies)
-- **Hedgehog Protocol** — On-chain prediction market (UX + branding + launch assets)
-- **Picnic** — Company Key Visual (grid, color system, branding for social + events)
-- **Petrobras Saúde / Seguros Unimed** — Platform redesigns focused on clarity and speed
+## Selected work
+- **Hedgehog Protocol** — On-chain prediction market (UX + branding + launch)
+- **Picnic** — Company Key Visual (branding, grid, color system)
+- **Petrobras Saúde / Seguros Unimed** — Platform redesigns focused on clarity
 
-> Want the full portfolio? Ping me and I’ll share the latest link.
-
----
-
-## How I work
-- I prioritize **clarity**, **consistency**, and **measurable outcomes**
-- I collaborate closely with engineers (handoff, constraints, feasibility)
-- I like products that demand both **systems thinking** and **taste**
+> Want the full portfolio? Reach out and I’ll share the latest version.
 
 ---
 
 ## Toolbelt
-**Design:** Figma, FigJam, prototyping, design systems  
-**Collab:** Notion, Slack, Trello, docs-first workflows  
-**Basics:** GitHub-friendly documentation, specs, and handoff notes
+<p>
+  <img src="https://img.shields.io/badge/Figma-UX%2FUI-7AA2F7?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20Systems-Scalable-9ECE6A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3-DeFi-B4F9F8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Branding-Visual%20Identity-F7768E?style=flat-square" />
+</p>
 
 ---
 
-## Let's connect
-- 💼 LinkedIn: _(https://www.linkedin.com/in/maths-fonseca/)_
-- 🎨 Portfolio / Behance: _(https://fonseca.studio/)_
+## GitHub activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### Fun fact
-If you see a hedgehog around here… it’s probably intentional 🦔✨
+## Let’s connect
+- 💼 LinkedIn: https://www.linkedin.com/in/maths-fonseca/
+- 🎨 Portfolio / Behance: https://fonseca.studio/
